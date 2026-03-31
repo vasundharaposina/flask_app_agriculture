@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaf Disease Detection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f2f2f2;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #2c3e50;
+        }
+
+        form {
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+            display: inline-block;
+        }
+
+        input[type=file] {
+            margin: 10px 0;
+        }
+
+        input[type=submit] {
+            background: #27ae60;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        input[type=submit]:hover {
+            background: #2ecc71;
+        }
+
+        .result {
+            margin-top: 20px;
+            background: #e8f5e9;
+            border-left: 6px solid #27ae60;
+            padding: 15px;
+            display: inline-block;
+            text-align: left;
+        }
+
+        .result img {
+            max-width: 300px;
+            border-radius: 10px;
+            margin-bottom: 10px;
+        }
+
+        .solution {
+            color: #27ae60;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>📷 Leaf Upload / Camera</h1>
+
+    <form action="{{ url_for('upload') }}" method="POST" enctype="multipart/form-data">
+        <input type="file" name="leaf" required>
+        <br>
+        <input type="submit" value="Upload & Predict">
+    </form>
+
+    {% if image %}
+    <div class="result">
+        <img src="{{ url_for('static', filename=image) }}" alt="Uploaded Leaf">
+        <p>🌱 <strong>Prediction:</strong> {{ prediction }}</p>
+        <p>✅ <strong>Solution:</strong> <span class="solution">{{ solution }}</span></p>
+    </div>
+    {% endif %}
+</body>
+</html>

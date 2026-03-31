@@ -1,0 +1,53 @@
+# ---------------- DISEASE SOLUTIONS ----------------
+DISEASES = {
+    "Tomato": {
+        "Early Blight": "Apply neem oil, remove infected leaves, rotate crops.",
+        "Late Blight": "Use copper fungicide and remove infected leaves.",
+        "Leaf Mold": "Ensure good airflow, remove affected leaves, apply fungicide.",
+        "Septoria Leaf Spot": "Remove infected leaves, apply fungicide, avoid overhead irrigation.",
+        "Spider Mites": "Use insecticidal soap or neem oil, spray underside of leaves.",
+        "Target Spot": "Remove infected leaves, apply recommended fungicide.",
+        "Tomato Yellow Leaf Curl Virus": "Remove infected plants, control whiteflies.",
+        "Mosaic Virus": "Remove infected plants, control aphids, use resistant varieties.",
+        "Healthy": "No action needed."
+    },
+    "Potato": {
+        "Early Blight": "Apply fungicide, rotate crops, remove infected leaves.",
+        "Late Blight": "Use proper drainage, fungicide, remove infected plants.",
+        "Healthy": "No action needed."
+    },
+    "Corn": {
+        "Cercospora Leaf Spot Gray Leaf Spot": "Remove infected leaves, apply fungicide.",
+        "Common Rust": "Use resistant varieties, apply fungicide if severe.",
+        "Northern Leaf Blight": "Rotate crops, remove debris, apply fungicide.",
+        "Healthy": "No action needed."
+    },
+    "Apple": {
+        "Apple Scab": "Remove infected leaves, apply fungicide.",
+        "Black Rot": "Prune infected parts, apply fungicide.",
+        "Cedar Apple Rust": "Remove nearby cedar trees, apply fungicide.",
+        "Healthy": "No action needed."
+    },
+    "Grape": {
+        "Black Rot": "Remove infected leaves and fruit, apply fungicide.",
+        "Esca (Black Measles)": "Remove infected wood, apply fungicide.",
+        "Leaf Blight (Isariopsis Leaf Spot)": "Remove infected leaves, apply fungicide.",
+        "Healthy": "No action needed."
+    },
+    "Peach": {
+        "Bacterial Spot": "Use copper sprays, remove infected leaves.",
+        "Healthy": "No action needed."
+    },
+    "Bell Pepper": {
+        "Bacterial Spot": "Use copper sprays, remove infected leaves.",
+        "Healthy": "No action needed."
+    },
+    "Strawberry": {
+        "Leaf Scorch": "Remove infected leaves, apply fungicide.",
+        "Healthy": "No action needed."
+    },
+    "Squash": {
+        "Powdery Mildew": "Remove infected leaves, apply fungicide, improve airflow.",
+        "Healthy": "No action needed."
+    }
+}

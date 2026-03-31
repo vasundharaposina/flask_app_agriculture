@@ -1,0 +1,180 @@
+{
+  "Tomato": {
+    "Early Blight": {
+      "en": "Apply neem oil and rotate crops",
+      "hi": "नीम का तेल लगाएं और फसल बदलें",
+      "te": "నిమ్ ఆయిల్ ఉపయోగించండి మరియు పంట మార్పు చేయండి"
+    },
+    "Late Blight": {
+      "en": "Use copper fungicide and remove infected leaves",
+      "hi": "तांबे का फफूंदनाशक लगाएं और संक्रमित पत्तियां हटाएं",
+      "te": "కాపర్ ఫంగిసైడ్ వాడండి మరియు సంక్రమిత ఆకులను తీసివేయండి"
+    },
+    "Leaf Mold": {
+      "en": "Ensure good air circulation and apply fungicide",
+      "hi": "अच्छी हवा का प्रवाह सुनिश्चित करें और फफूंदनाशक लगाएं",
+      "te": "మంచి గాలి ప్రవాహం ఉండ도록 చూసుకోండి మరియు ఫంగిసైడ్ ఉపయోగించండి"
+    },
+    "Septoria Leaf Spot": {
+      "en": "Remove infected leaves and apply fungicide",
+      "hi": "संक्रमित पत्तियां हटाएं और फफूंदनाशक लगाएं",
+      "te": "సంక్రమిత ఆకులను తీసివేయండి మరియు ఫంగిసైడ్ వాడండి"
+    },
+    "Spider Mites": {
+      "en": "Use miticides and maintain humidity",
+      "hi": "माइटिसाइड्स का उपयोग करें और आर्द्रता बनाए रखें",
+      "te": "మైటీసైడ్ ఉపయోగించండి మరియు తేమని కాపాడుకోండి"
+    },
+    "Target Spot": {
+      "en": "Remove infected leaves and apply fungicide",
+      "hi": "संक्रमित पत्तियां हटाएं और फफूंदनाशक लगाएं",
+      "te": "సంక్రమిత ఆకులను తీసివేయండి మరియు ఫంగిసైడ్ వాడండి"
+    },
+    "Tomato Yellow Leaf Curl Virus": {
+      "en": "Remove infected plants and control whiteflies",
+      "hi": "संक्रमित पौधों को हटाएं और सफेद मक्खियों को नियंत्रित करें",
+      "te": "సంక్రమిత మొక్కలను తొలగించండి మరియు వైట్‌ఫ్లైలను నియంత్రించండి"
+    },
+    "Mosaic Virus": {
+      "en": "Remove infected plants and disinfect tools",
+      "hi": "संक्रमित पौधों को हटाएं और उपकरणों को कीटाणुरहित करें",
+      "te": "సంక్రమిత మొక్కలను తీసివేయండి మరియు పరికరాలను శుభ్రం చేయండి"
+    },
+    "Healthy": {
+      "en": "No action needed. Keep monitoring.",
+      "hi": "कोई कार्रवाई आवश्यक नहीं। निगरानी बनाए रखें।",
+      "te": "ఏ చర్య అవసరం లేదు. పర్యవేక్షణ కొనసాగించండి."
+    }
+  },
+  "Potato": {
+    "Early Blight": {
+      "en": "Apply fungicide and rotate crops",
+      "hi": "फफूंदनाशक लगाएं और फसल बदलें",
+      "te": "ఫంగిసైడ్ ఉపయోగించండి మరియు పంట మార్పు చేయండి"
+    },
+    "Late Blight": {
+      "en": "Ensure proper drainage and apply fungicide",
+      "hi": "सही जल निकासी सुनिश्चित करें और फफूंदनाशक लगाएं",
+      "te": "సరైన డ్రైనేజ్ మరియు ఫంగిసైడ్ వాడండి"
+    },
+    "Healthy": {
+      "en": "No action needed. Keep monitoring.",
+      "hi": "कोई कार्रवाई आवश्यक नहीं। निगरानी बनाए रखें।",
+      "te": "ఏ చర్య అవసరం లేదు. పర్యవేక్షణ కొనసాగించండి."
+    }
+  },
+  "Corn": {
+    "Cercospora Leaf Spot": {
+      "en": "Remove infected leaves and apply fungicide",
+      "hi": "संक्रमित पत्तियां हटाएं और फफूंदनाशक लगाएं",
+      "te": "సంక్రమిత ఆకులను తీసివేయండి మరియు ఫంగిసైడ్ వాడండి"
+    },
+    "Common Rust": {
+      "en": "Apply fungicide and maintain spacing",
+      "hi": "फफूंदनाशक लगाएं और पौधों के बीच दूरी बनाए रखें",
+      "te": "ఫంగిసైడ్ ఉపయోగించండి మరియు మొక్కల మధ్య దూరం కాపాడుకోండి"
+    },
+    "Northern Leaf Blight": {
+      "en": "Remove infected leaves and apply fungicide",
+      "hi": "संक्रमित पत्तियां हटाएं और फफूंदनाशक लगाएं",
+      "te": "సంక్రమిత ఆకులను తీసివేయండి మరియు ఫంగిసైడ్ వాడండి"
+    },
+    "Healthy": {
+      "en": "No action needed. Keep monitoring.",
+      "hi": "कोई कार्रवाई आवश्यक नहीं। निगरानी बनाए रखें।",
+      "te": "ఏ చర్య అవసరం లేదు. పర్యవేక్షణ కొనసాగించండి."
+    }
+  },
+  "Apple": {
+    "Apple Scab": {
+      "en": "Remove infected leaves and apply fungicide",
+      "hi": "संक्रमित पत्तियां हटाएं और फफूंदनाशक लगाएं",
+      "te": "సంక్రమిత ఆకులను తీసివేయండి మరియు ఫంగిసైడ్ వాడండి"
+    },
+    "Black Rot": {
+      "en": "Prune infected areas and apply fungicide",
+      "hi": "संक्रमित हिस्सों को छाँटें और फफूंदनाशक लगाएं",
+      "te": "సంక్రమిత ప్రాంతాలను కత్తిరించండి మరియు ఫంగిసైడ్ వాడండి"
+    },
+    "Cedar Apple Rust": {
+      "en": "Remove infected leaves and control alternate hosts",
+      "hi": "संक्रमित पत्तियां हटाएं और वैकल्पिक मेजबान नियंत्रित करें",
+      "te": "సంక్రమిత ఆకులను తీసివేయండి మరియు ప్రత్యామ్నాయ యజమానులను నియంత్రించండి"
+    },
+    "Healthy": {
+      "en": "No action needed. Keep monitoring.",
+      "hi": "कोई कार्रवाई आवश्यक नहीं। निगरानी बनाए रखें।",
+      "te": "ఏ చర్య అవసరం లేదు. పర్యవేక్షణ కొనసాగించండి."
+    }
+  },
+  "Grape": {
+    "Black Rot": {
+      "en": "Remove infected grapes and apply fungicide",
+      "hi": "संक्रमित अंगूर हटाएं और फफूंदनाशक लगाएं",
+      "te": "సంక్రమిత ద్రాక్షలను తీసివేయండి మరియు ఫంగిసైడ్ వాడండి"
+    },
+    "Esca (Black Measles)": {
+      "en": "Prune infected vines and apply fungicide",
+      "hi": "संक्रमित बेलों को छाँटें और फफूंदनाशक लगाएं",
+      "te": "సంక్రమిత ముద్దులను కత్తిరించండి మరియు ఫంగిసైడ్ వాడండి"
+    },
+    "Leaf Blight": {
+      "en": "Remove infected leaves and apply fungicide",
+      "hi": "संक्रमित पत्तियां हटाएं और फफूंदनाशक लगाएं",
+      "te": "సంక్రమిత ఆకులను తీసివేయండి మరియు ఫంగిసైడ్ వాడండి"
+    },
+    "Healthy": {
+      "en": "No action needed. Keep monitoring.",
+      "hi": "कोई कार्रवाई आवश्यक नहीं। निगरानी बनाए रखें।",
+      "te": "ఏ చర్య అవసరం లేదు. పర్యవేక్షణ కొనసాగించండి."
+    }
+  },
+  "Peach": {
+    "Bacterial Spot": {
+      "en": "Remove infected leaves and apply bactericide",
+      "hi": "संक्रमित पत्तियां हटाएं और जीवाणुनाशक लगाएं",
+      "te": "సంక్రమిత ఆకులను తీసివేయండి మరియు బ్యాక్టీరీసైడ్ వాడండి"
+    },
+    "Healthy": {
+      "en": "No action needed. Keep monitoring.",
+      "hi": "कोई कार्रवाई आवश्यक नहीं। निगरानी बनाए रखें।",
+      "te": "ఏ చర్య అవసరం లేదు. పర్యవేక్షణ కొనసాగించండి."
+    }
+  },
+  "Bell Pepper": {
+    "Bacterial Spot": {
+      "en": "Remove infected leaves and apply bactericide",
+      "hi": "संक्रमित पत्तियां हटाएं और जीवाणुनाशक लगाएं",
+      "te": "సంక్రమిత ఆకులను తీసివేయండి మరియు బ్యాక్టీరీసైడ్ వాడండి"
+    },
+    "Healthy": {
+      "en": "No action needed. Keep monitoring.",
+      "hi": "कोई कार्रवाई आवश्यक नहीं। निगरानी बनाए रखें।",
+      "te": "ఏ చర్య అవసరం లేదు. పర్యవేక్షణ కొనసాగించండి."
+    }
+  },
+  "Strawberry": {
+    "Leaf Scorch": {
+      "en": "Remove infected leaves and apply fungicide",
+      "hi": "संक्रमित पत्तियां हटाएं और फफूंदनाशक लगाएं",
+      "te": "సంక్రమిత ఆకులను తీసివేయండి మరియు ఫంగిసైడ్ వాడండి"
+    },
+    "Healthy": {
+      "en": "No action needed. Keep monitoring.",
+      "hi": "कोई कार्रवाई आवश्यक नहीं। निगरानी बनाए रखें।",
+      "te": "ఏ చర్య అవసరం లేదు. పర్యవేక్షణ కొనసాగించండి."
+    }
+  },
+  "Squash": {
+    "Powdery Mildew": {
+      "en": "Apply sulfur fungicide and improve air circulation",
+      "hi": "सल्फर फफूंदनाशक लगाएं और हवा का प्रवाह सुधारें",
+      "te": "సల్ఫర్ ఫంగిసైడ్ వాడండి మరియు గాలి ప్రవాహం మెరుగుపరచండి"
+    },
+    "Healthy": {
+      "en": "No action needed. Keep monitoring.",
+      "hi": "कोई कार्रवाई आवश्यक नहीं। निगरानी बनाए रखें।",
+      "te": "ఏ చర్య అవసరం లేదు. పర్యవేక్షణ కొనసాగించండి."
+    }
+  }
+}
